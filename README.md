@@ -17,7 +17,8 @@ Licensed Insurance Representative moving into **governance, risk, and compliance
 ## Projects
 | Project | Description |
 |---|---|
-| [VAPT Capstone: Kassera Pay](#) | Vulnerability assessment and penetration test of a fictional fintech client, with risk-rated findings and remediation recommendations |
+| [ISMS Documentation: QuantumTech Ltd.](https://github.com/ogejulia-maker/quantumtech-isms) | ISO/IEC 27001:2022 documentation package for a fictional software company: ISMS scope, risk assessment and treatment procedure, Statement of Applicability (20 Annex A controls), and Information Security and BYOD policies |
+| VAPT Capstone: Kassera Pay | Vulnerability assessment and penetration test of a fictional fintech client *(in progress)* |
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/julia-kike-msc-b60155258
