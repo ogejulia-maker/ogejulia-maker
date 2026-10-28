@@ -1,16 +1,24 @@
-## Hi there 👋
+# Julia Kikeme, MSc
 
-<!--
-**ogejulia-maker/ogejulia-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Licensed Insurance Representative moving into **governance, risk, and compliance (GRC)** and operational risk.
 
-Here are some ideas to get you started:
+## Background
+- 10 years in financial services across insurance (The Co-operators), retail banking (RBC), and bank administration (Fidelity Bank, Lagos)
+- MSc in Organizational Management, Crandall University
+- Pursuing the CIP designation (C130 completed)
+- Studying cybersecurity at 10Alytics (Mar 2026 – Feb 2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- Risk assessment and risk registers
+- Security controls and compliance frameworks (NIST CSF, ISO 27001)
+- Vulnerability assessment reporting for business audiences
+- Regulatory compliance in financial services
+
+## Projects
+| Project | Description |
+|---|---|
+| [VAPT Capstone: Kassera Pay](#) | Vulnerability assessment and penetration test of a fictional fintech client, with risk-rated findings and remediation recommendations |
+
+## Contact
+- LinkedIn: www.linkedin.com/in/julia-kike-msc-b60155258
+- Based in Moncton, New Brunswick, Canada
